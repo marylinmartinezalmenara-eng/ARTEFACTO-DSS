@@ -1,26 +1,11 @@
 [project]
-name = "blank-app-template"
+name = "artefacto-dss"
 version = "0.1.0"
-description = "A simple Streamlit app template."
-readme = "README.md"
-requires-python = ">=3.14"
+description = "Sistema de soporte a decisiones para mejorar la productividad de mano de obra"
+requires-python = ">=3.11"
 dependencies = [
-<<<<<<< HEAD
-=======
-    "openpyxl>=3.1.5",
->>>>>>> 0f588f5 (Initial commit)
-    "streamlit>=1.61.1",
-]
-
-[tool.uv]
-package = false
-<<<<<<< HEAD
-=======
-
-dependencies = [
+    "streamlit",
+    "pandas",
     "numpy",
     "openpyxl",
-    "pandas",
-    "streamlit",
 ]
->>>>>>> 0f588f5 (Initial commit)

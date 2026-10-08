@@ -1,11 +1,4 @@
-<<<<<<< HEAD
-import streamlit as st
 
-st.title("🎈 My new app")
-st.write(
-    "Let's start building! For help and inspiration, head over to [docs.streamlit.io](https://docs.streamlit.io/)."
-)
-=======
 # ============================================================
 # DSS PARA LA MEJORA DE LA PRODUCTIVIDAD DE MANO DE OBRA
 # Sector metalmecánico
@@ -1695,4 +1688,3 @@ st.markdown(
     """,
     unsafe_allow_html=True
 )
->>>>>>> 0f588f5 (Initial commit)
